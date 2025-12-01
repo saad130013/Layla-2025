@@ -17,12 +17,13 @@ import { getAuth } from "firebase/auth";
 // 5. Select "Config" and copy the configuration object here.
 // =================================================================================================
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY_HERE", // Example: "AIzaSy..."
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyD0OZWWkKrB4O3wVfCZgb5a7QELkOsdilw",
+  authDomain: "layla-966.firebaseapp.com",
+  projectId: "layla-966",
+  storageBucket: "layla-966.firebasestorage.app",
+  messagingSenderId: "646607727400",
+  appId: "1:646607727400:web:14d624f85792d274293e1d",
+  measurementId: "G-WRTHMQR3H8"
 };
 
 // Initialize Firebase App
